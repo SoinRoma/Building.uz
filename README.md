@@ -11,3 +11,9 @@
 + Также нужно обновить PHP до 7.4 на хостинге для сайта
 + Затем создать свою тему и перести на хостинг все свои файлы и подключить их
 (Как подключать файлы можно посмотреть на https://wp-kama.ru/handbook/cheatsheet)
++ https://ru.wordpress.org/plugins/advanced-custom-fields/ - плагин ACF
++ https://unsplash.com/ - картинки с бесплатной лицензией
++ https://wp-kama.ru/function/register_post_type — регистрация нового типа записей 
++ https://wp-kama.ru/function/wp_query — функция для вывода постов
++ https://wp-kama.ru/function/add_theme_support#post-thumbnails — добавляем картинки к записям 
++ https://developer.wordpress.org/resource/dashicons — иконки для админ панели
