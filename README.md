@@ -17,3 +17,8 @@
 + https://wp-kama.ru/function/wp_query — функция для вывода постов
 + https://wp-kama.ru/function/add_theme_support#post-thumbnails — добавляем картинки к записям 
 + https://developer.wordpress.org/resource/dashicons — иконки для админ панели
+
+## Используемые технологии
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=html)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
