@@ -8,11 +8,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
-### Используемые плагины/библиотеки
-![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-black?style=flat-square&logo=bootstrap&logoColor=bootstrap)
-![BOOTSTRAP](https://img.shields.io/badge/-JQuery-black?style=flat-square&logo=jquery&logoColor=jquery)
-
-
 ### Запуск проекта
 ```
 Разархивировать проект и запустить в IDE (WebStorm)
